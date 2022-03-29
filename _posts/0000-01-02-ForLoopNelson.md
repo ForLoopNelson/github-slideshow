@@ -1,6 +1,6 @@
 GEM
   remote: https://rubygems.org/
-  <h1>Fuck GitHub</h1>
+  <h1>Attempt to add a header</h1>
   specs:
     activesupport (6.0.3.6)
       concurrent-ruby (~> 1.0, >= 1.0.2)
